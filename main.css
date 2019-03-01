@@ -1,4 +1,26 @@
 img{
-	width : 100%;
-	
+	width : 35%;
+	margin:30px 7%;
+	border-radius:50%;
+	float:left;	
+}
+.br50{
+	width:85%;
+}
+.iimg{
+	float:right;
+	width:200px;
+	height:180px;
+	margin-right:110px;
+}
+p{
+	color:#000000;
+	margin:60px;
+	float:left;
+	font-size:40px;
+	font-family:helvetica;
+
+}
+a{
+	text-decoration: none;
 }
